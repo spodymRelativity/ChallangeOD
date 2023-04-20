@@ -1,0 +1,14 @@
+C:\work\dev\tmp\ChallangeOD\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.exe
+C:\work\dev\tmp\ChallangeOD\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.deps.json
+C:\work\dev\tmp\ChallangeOD\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.runtimeconfig.json
+C:\work\dev\tmp\ChallangeOD\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.runtimeconfig.dev.json
+C:\work\dev\tmp\ChallangeOD\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.dll
+C:\work\dev\tmp\ChallangeOD\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.pdb
+C:\work\dev\tmp\ChallangeOD\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.csproj.AssemblyReference.cache
+C:\work\dev\tmp\ChallangeOD\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\dev\tmp\ChallangeOD\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.AssemblyInfoInputs.cache
+C:\work\dev\tmp\ChallangeOD\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.AssemblyInfo.cs
+C:\work\dev\tmp\ChallangeOD\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.csproj.CoreCompileInputs.cache
+C:\work\dev\tmp\ChallangeOD\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.dll
+C:\work\dev\tmp\ChallangeOD\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.pdb
+C:\work\dev\tmp\ChallangeOD\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.genruntimeconfig.cache
