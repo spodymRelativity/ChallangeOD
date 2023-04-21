@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\work\\dev\\tmp\\t1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\work\\dev\\tmp\\1111\\ChallangeOD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\work\\dev\\tmp\\t1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\work\\dev\\tmp\\1111\\ChallangeOD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\work\\dev\\tmp\\t1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\work\\dev\\tmp\\1111\\ChallangeOD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\work\\dev\\tmp\\t1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\work\\dev\\tmp\\1111\\ChallangeOD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\tomasz.spodymek\\.nuget\\packages\\",
-        "outputPath": "C:\\work\\dev\\tmp\\t1\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\work\\dev\\tmp\\1111\\ChallangeOD\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cfkw5Vhd8GPKgyrDwRNKyhtysoVpiy4YuJkC6gv/8QPygEafn6zwEFvNTLT9bI8nlkJ5JA+L3UsxM5+WVXClgQ==",
+  "dgSpecHash": "mmNfVsd0tjrxfDSQt1J0RGoAN1RGuni2V2R6WV+nfmpog1+6BKIlrHUZw1gjA3Ylaq2TAHznlRAzDWy7+tST6w==",
   "success": true,
-  "projectFilePath": "C:\\work\\dev\\tmp\\t1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\work\\dev\\tmp\\1111\\ChallangeOD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tomasz.spodymek\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
   ],
